@@ -8,6 +8,10 @@
   background-color: skyblue;
 }
 
+.about p {
+  font-style: oblique;
+}
+
 .adams {
   color: #6699ff;
 }
@@ -22,13 +26,16 @@
 }
 
 .italic {
-  /*width: 50%;*/
   font-style: italic;
 }
 
 .projects {
   color: saddlebrown;
-  text-align: justify;
+  text-align: left;
+}
+
+.projects p {
+  margin: 12px;
 }
 
 h1 {
@@ -48,7 +55,7 @@ img {
 }
 
 p {
-  font-family: sans-serif;
+  font-family: serif;
 }
 
 p.important {
