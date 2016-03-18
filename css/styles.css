@@ -2,15 +2,14 @@
   color: navy;
   font-size: 20px;
   line-height: 1.5em;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  background-color: skyblue;
 }
 
 .adams {
   color: #6699ff;
-}
-
-.projects {
-  color: saddlebrown;
-  text-align: justify;
 }
 
 .douglas {
@@ -27,6 +26,11 @@
   font-style: italic;
 }
 
+.projects {
+  color: saddlebrown;
+  text-align: justify;
+}
+
 h1 {
   font-weight: bold;
   color: #0000ff;
@@ -38,7 +42,7 @@ h2 {
 }
 
 img {
-  float:left;
+  float: left;
   margin-left: 10px;
   margin-right: 10px;
 }
@@ -61,7 +65,7 @@ ol {
   line-height: 2em;
 }
 
-/*ul {
+ul {
   font-size: 20px;
   line-height: 1.5em;
-}*/
+}
