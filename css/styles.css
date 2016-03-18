@@ -1,3 +1,17 @@
+.important {
+  color:red;
+  font-weight: bold;
+}
+
+.cow {
+  color: saddlebrown;
+  text-align: justify;
+}
+
+.richter {
+  color: navy;
+}
+
 h1 {
   font-weight: bold;
   color: #0000ff;
@@ -7,11 +21,6 @@ h1 {
 h2 {
   font-style: italic;
   text-align: center;
-}
-
-.important {
-  color:red;
-  font-weight: bold;
 }
 
 p {
@@ -29,7 +38,9 @@ p.intro {
 
 ul {
   font-size: 20px;
-  line-height: 30px;
+  line-height: 2em;
 }
 
-/*Now, use the following properties in your CSS: color, text-align, font-style, font-weight, font-family, font-size, and line-height.*/
+ol {
+  text-align: center;
+}

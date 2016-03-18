@@ -1,7 +1,7 @@
 
 
 
-HAVE YOU COMMITTED, YOU SQUIRRELLY FUCKER???
+? HAVE YOU COMMITTED, YOU SQUIRRELLY FUCK ???
 
 
 
@@ -14,8 +14,6 @@ A custom-made stylesheet that uses cascading, the box model, and floats
 
 Bootstrap classes are used to style your page.
 
-A project README that includes a link to site on GitHub Pages
-
 Check indentation and spacing of HTML and CSS
 
 ----------------------------
@@ -27,10 +25,10 @@ Check indentation and spacing of HTML and CSS
 These HTML tags are incorporated:
 p, h, ul, ol, li, em, strong, a, img, div
 
-The rest of a project README
+README is done
 
 ----------------------------
 
 
 
-HAVE YOU COMMITTED, YOU SQUIRRELLY FUCKER???
+? HAVE YOU COMMITTED, YOU SQUIRRELLY FUCK ???
