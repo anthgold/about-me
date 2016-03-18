@@ -8,7 +8,7 @@ link to site on GitHub Pages
 copyright and license information
 -->
 
-# _Project: about-me_
+# _Project: About-Me_
 
 #### _Anthony C. Gold's Web Portfolio, current as of 3.18.2016_
 
@@ -16,7 +16,7 @@ copyright and license information
 
 ## Description
 
-_Here all all the amazing things Anthony has accomplished in his short time at Epicodus. It's truly a wonder he's still so darned humble._
+_Here all all the amazing things Anthony has accomplished in his short time at Epicodus. It's truly a wonder he's still so darned humble. Page is at http://anthgold.github.io/about-me/_
 
 ## Setup/Installation Requirements
 
@@ -33,9 +33,8 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 _{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
 
 ## Support and contact details
-## Link to site on GitHub Pages, which I probably need to create
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Questions? Concerns? Email: anthgold@gmail.com _
 
 ## Technologies Used
 

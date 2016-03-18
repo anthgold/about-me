@@ -9,8 +9,22 @@ h2 {
   text-align: center;
 }
 
+.important {
+  color:red;
+  font-weight: bold;
+}
+
 p {
   font-family: sans-serif;
+}
+
+p.important {
+  font-size: 24px;
+}
+
+p.intro {
+  width: 50%;
+  font-style: italic;
 }
 
 ul {
