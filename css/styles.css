@@ -1,6 +1,5 @@
-.important {
-  color:red;
-  font-weight: bold;
+.adams {
+  color: #6699ff;
 }
 
 .cow {
@@ -8,16 +7,17 @@
   text-align: justify;
 }
 
-.man {
-  color: navy;
-}
-
-.adams {
-  color: #6699ff;
-}
-
 .douglas {
   color: #009933;
+}
+
+.important {
+  color:red;
+  font-weight: bold;
+}
+
+.man {
+  color: navy;
 }
 
 h1 {
@@ -27,8 +27,9 @@ h1 {
 }
 
 h2 {
-  font-style: italic;
-  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 p {
@@ -44,11 +45,11 @@ p.intro {
   font-style: italic;
 }
 
+ol {
+  text-align: center;
+}
+
 ul {
   font-size: 20px;
   line-height: 2em;
-}
-
-ol {
-  text-align: center;
 }
