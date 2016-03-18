@@ -1,8 +1,12 @@
+.about {
+  color: navy;
+}
+
 .adams {
   color: #6699ff;
 }
 
-.cow {
+.projects {
   color: saddlebrown;
   text-align: justify;
 }
@@ -16,8 +20,9 @@
   font-weight: bold;
 }
 
-.man {
-  color: navy;
+.italic {
+  /*width: 50%;*/
+  font-style: italic;
 }
 
 h1 {
@@ -27,9 +32,7 @@ h1 {
 }
 
 h2 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  /*placeholder*/
 }
 
 p {
@@ -40,16 +43,17 @@ p.important {
   font-size: 24px;
 }
 
-p.intro {
-  width: 50%;
+/*p.intro {
+  /*width: 50%;*/
   font-style: italic;
-}
+}*/
 
 ol {
-  text-align: center;
+  /*placeholder*/
 }
 
 ul {
+  text-align: center;
   font-size: 20px;
   line-height: 2em;
 }
