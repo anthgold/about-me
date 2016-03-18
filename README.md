@@ -34,7 +34,7 @@ _{Are there issues that have not yet been resolved that you want to let users kn
 
 ## Support and contact details
 
-_Questions? Concerns? Email: anthgold@gmail.com _
+Questions? Concerns? Email: anthgold@gmail.com
 
 ## Technologies Used
 
