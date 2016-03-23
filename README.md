@@ -1,13 +1,3 @@
-<!--
-A project README that includes:
-author name
-project or program name
-description of program
-program setup instructions
-link to site on GitHub Pages
-copyright and license information
--->
-
 # _Project: About-Me_
 
 #### _Anthony C. Gold's Web Portfolio, current as of 3.18.2016_
@@ -44,14 +34,4 @@ _{Tell me about the languages and tools you used to create this app. Assume that
 
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 
-Copyright (c) 2015 **_{List of contributors or company name}_**
-
-<!--
-A project README that includes:
-author name
-project or program name
-description of program
-program setup instructions
-link to site on GitHub Pages
-copyright and license information
--->
+Copyright (c) 2016 **_{List of contributors or company name}_**
